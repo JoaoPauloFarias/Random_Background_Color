@@ -1,0 +1,28 @@
+@charset "utf-8";
+
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: blueviolet;
+    height: 100vh;
+    place-items: center;
+    display: grid;
+}
+button{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding: 20px 45px;
+    background-color: #ffffff80;
+    border: 5px solid #ffffff;
+    color: #ffffff;
+    letter-spacing: 1.9px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-weight: bold;
+    outline: none;
+}
+
+
+
